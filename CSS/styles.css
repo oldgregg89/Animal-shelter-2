@@ -13,3 +13,8 @@
 .dog p a{
     font-style: oblique;
 }
+.column {
+  float: left;
+  width: 200px;
+  padding: 10px;
+}
