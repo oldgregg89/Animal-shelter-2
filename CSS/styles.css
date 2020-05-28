@@ -6,15 +6,21 @@
   background-color: rgb(50, 114, 110);
 }
 
-.notdog p a{
+.notdog p{
     font-style: italic;
 }
 
-.dog p a{
+.dog p{
     font-style: oblique;
 }
+
+
 .column {
   float: left;
   width: 200px;
   padding: 10px;
+}
+
+.column h1 {
+  text-emphasis: bold;
 }
