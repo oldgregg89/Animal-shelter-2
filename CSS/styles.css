@@ -1,0 +1,15 @@
+.notdog p {
+  background-color: blue;
+}
+
+.dog p {
+  background-color: rgb(50, 114, 110);
+}
+
+.notdog p a{
+    font-style: italic;
+}
+
+.dog p a{
+    font-style: oblique;
+}
